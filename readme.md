@@ -1,0 +1,1 @@
+Android app developed to track light level with the help of light sensor. Final project for "Programming in Android" subject.
