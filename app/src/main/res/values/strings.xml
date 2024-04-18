@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">step</string>
+    <string name="title">Light Sensor 3000</string>
+    <string name="On">Sensor ON</string>
+    <string name="Off">Sensor OFF</string>
+    <string name="Value">Current light level</string>
+
+</resources>
