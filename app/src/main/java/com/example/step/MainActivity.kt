@@ -293,7 +293,7 @@ class MainActivity : ComponentActivity() {
     }
 
     override fun onResume() {
-        Log.d("chuj","$isActive")
+        
         if(isActive){registerSensor()}
 
         super.onResume()
